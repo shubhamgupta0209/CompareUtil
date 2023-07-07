@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-06T18:06:56 SGT" name="Default suite" finished-at="2023-07-06T18:07:00 SGT" duration-ms="3687">
+    <groups>
+    </groups>
+    <test started-at="2023-07-06T18:06:56 SGT" name="Default test" finished-at="2023-07-06T18:07:00 SGT" duration-ms="3687">
+      <class name="testCase.BaseTest">
+        <test-method is-config="true" signature="initDriver()[pri:0, instance:testCase.BaseTest@7ea9e1e2]" started-at="2023-07-06T18:06:56 SGT" name="initDriver" finished-at="2023-07-06T18:06:59 SGT" duration-ms="2856" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initDriver -->
+        <test-method signature="compareData()[pri:0, instance:testCase.BaseTest@7ea9e1e2]" started-at="2023-07-06T18:06:59 SGT" name="compareData" finished-at="2023-07-06T18:06:59 SGT" duration-ms="149" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- compareData -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCase.BaseTest@7ea9e1e2]" started-at="2023-07-06T18:06:59 SGT" name="tearDown" finished-at="2023-07-06T18:07:00 SGT" duration-ms="622" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCase.BaseTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
